@@ -1,4 +1,4 @@
-Insert this CSS into your CSS file
+Insert this CSS into your CSS file <br>
 
 ```css
 @font-face {
@@ -9,7 +9,7 @@ Insert this CSS into your CSS file
 }
 ```
 
-Then use this for applying the font in your CSS
+Then use this for applying the font in your CSS <br>
 
 ```css
 example {
